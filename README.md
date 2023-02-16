@@ -26,7 +26,7 @@ To run the project, you'll need to have Node.js and MongoDB installed on your sy
 Clone the repository to your local machine using the command:
 
 
-`git clone https://github.com/<username>/<repository-name>.git`
+`git clone https://github.com/Nawaz393/crudApp-using-mern-stack-.git`
 
 
 Navigate to the backend folder in the command line and run the following commands:
@@ -34,6 +34,7 @@ Navigate to the backend folder in the command line and run the following command
 
 `npm install`
 `npm start`
+
 This will start the Express server on http://localhost
 
 Navigate to the ui folder in the command line and run the following commands:
@@ -45,7 +46,8 @@ This will start the React development server on http://localhost
 
 
 
-Usage
+# Usage
+
 Once you have the application running, you can use it to perform CRUD operations on items.
 
 To create a new item, click the "Add Item" button on the home page, and fill out the form.
